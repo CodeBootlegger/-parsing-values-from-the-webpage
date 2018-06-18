@@ -1,0 +1,30 @@
+C:\Users\Donald Tramp\Desktop\Парсинг WPF\Парсинг WPF\bin\Debug\Парсинг WPF.exe.config
+C:\Users\Donald Tramp\Desktop\Парсинг WPF\Парсинг WPF\bin\Debug\Парсинг WPF.exe
+C:\Users\Donald Tramp\Desktop\Парсинг WPF\Парсинг WPF\bin\Debug\Парсинг WPF.pdb
+C:\Users\Donald Tramp\Desktop\Парсинг WPF\Парсинг WPF\obj\Debug\Парсинг WPF.csprojResolveAssemblyReference.cache
+C:\Users\Donald Tramp\Desktop\Парсинг WPF\Парсинг WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Donald Tramp\Desktop\Парсинг WPF\Парсинг WPF\obj\Debug\App.g.cs
+C:\Users\Donald Tramp\Desktop\Парсинг WPF\Парсинг WPF\obj\Debug\Парсинг WPF_MarkupCompile.cache
+C:\Users\Donald Tramp\Desktop\Парсинг WPF\Парсинг WPF\obj\Debug\Парсинг WPF_MarkupCompile.lref
+C:\Users\Donald Tramp\Desktop\Парсинг WPF\Парсинг WPF\obj\Debug\MainWindow.baml
+C:\Users\Donald Tramp\Desktop\Парсинг WPF\Парсинг WPF\obj\Debug\Парсинг WPF.g.resources
+C:\Users\Donald Tramp\Desktop\Парсинг WPF\Парсинг WPF\obj\Debug\Парсинг_WPF.Properties.Resources.resources
+C:\Users\Donald Tramp\Desktop\Парсинг WPF\Парсинг WPF\obj\Debug\Парсинг WPF.csproj.GenerateResource.cache
+C:\Users\Donald Tramp\Desktop\Парсинг WPF\Парсинг WPF\obj\Debug\Парсинг WPF.csproj.CoreCompileInputs.cache
+C:\Users\Donald Tramp\Desktop\Парсинг WPF\Парсинг WPF\obj\Debug\Парсинг WPF.exe
+C:\Users\Donald Tramp\Desktop\Парсинг WPF\Парсинг WPF\obj\Debug\Парсинг WPF.pdb
+C:\Users\Thomas\Desktop\Парсинг\Парсинг WPF\Парсинг WPF\bin\Debug\Парсинг WPF.exe.config
+C:\Users\Thomas\Desktop\Парсинг\Парсинг WPF\Парсинг WPF\bin\Debug\Парсинг WPF.exe
+C:\Users\Thomas\Desktop\Парсинг\Парсинг WPF\Парсинг WPF\bin\Debug\Парсинг WPF.pdb
+C:\Users\Thomas\Desktop\Парсинг\Парсинг WPF\Парсинг WPF\obj\Debug\Парсинг WPF.csprojAssemblyReference.cache
+C:\Users\Thomas\Desktop\Парсинг\Парсинг WPF\Парсинг WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Thomas\Desktop\Парсинг\Парсинг WPF\Парсинг WPF\obj\Debug\App.g.cs
+C:\Users\Thomas\Desktop\Парсинг\Парсинг WPF\Парсинг WPF\obj\Debug\Парсинг WPF_MarkupCompile.cache
+C:\Users\Thomas\Desktop\Парсинг\Парсинг WPF\Парсинг WPF\obj\Debug\Парсинг WPF_MarkupCompile.lref
+C:\Users\Thomas\Desktop\Парсинг\Парсинг WPF\Парсинг WPF\obj\Debug\MainWindow.baml
+C:\Users\Thomas\Desktop\Парсинг\Парсинг WPF\Парсинг WPF\obj\Debug\Парсинг WPF.g.resources
+C:\Users\Thomas\Desktop\Парсинг\Парсинг WPF\Парсинг WPF\obj\Debug\Парсинг_WPF.Properties.Resources.resources
+C:\Users\Thomas\Desktop\Парсинг\Парсинг WPF\Парсинг WPF\obj\Debug\Парсинг WPF.csproj.GenerateResource.cache
+C:\Users\Thomas\Desktop\Парсинг\Парсинг WPF\Парсинг WPF\obj\Debug\Парсинг WPF.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\Парсинг\Парсинг WPF\Парсинг WPF\obj\Debug\Парсинг WPF.exe
+C:\Users\Thomas\Desktop\Парсинг\Парсинг WPF\Парсинг WPF\obj\Debug\Парсинг WPF.pdb
